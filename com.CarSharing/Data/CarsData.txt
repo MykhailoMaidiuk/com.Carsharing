@@ -1,0 +1,5 @@
+Sedan,Mercedes,2015,200,RED,Petrol,AB1,false
+SUV,Ford,2020,250,BLACK,Petrol,AB2,false
+Sedan,Opel,2005,370,WHITE,Electricity,AB3,false
+Sedan,BMW,2020,400,RED,Petrol,AB7,false
+Sedan,kok,2009,900,RED,Petrol,AB11,false
